@@ -32,5 +32,9 @@
 • 장바구니 담기/조회/삭제/상품 주문
 
 
-https://github.com/tmfleja97/shopchop/assets/126377919/7eb49200-f19c-4bd7-8af1-13e18fbbb3be
+
+
+https://github.com/tmfleja97/shopchop/assets/126377919/4d7de169-248f-45a4-a2fa-0df74649c612
+
+
 
